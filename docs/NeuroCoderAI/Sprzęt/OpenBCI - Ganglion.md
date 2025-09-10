@@ -9,16 +9,18 @@
 
 Data is sampled at 200Hz on each of the 4 channels
 
-#### 2) Software
+### 2) Software
 Jest w pełni OpenSource (można kodować w pythonie, streamować dane przez LSL itp.).  
 [https://www.youtube.com/watch?v=1xfVZ5NMhsM](https://www.youtube.com/watch?v=1xfVZ5NMhsM "https://www.youtube.com/watch?v=1xfvz5nmhsm")
 
-#### 3) Zastosowania
+### 3) Zastosowania
 Elastyczność podpinania elektrod - i prawdopodobnie dużo lepsza jakość sygnału i jego rozdzielczość (niż Muse S Athena) i możliwość zastosowania pasty/żelu
 
 ### 4) Tutoriale
 https://docs.openbci.com/GettingStarted/Boards/GanglionGS/
+
 https://docs.openbci.com/GettingStarted/Biosensing-Setups/EEGSetup/
+
 https://docs.openbci.com/AddOns/Headwear/HeadBand/
 
 https://www.youtube.com/watch?v=1xfVZ5NMhsM
@@ -29,7 +31,7 @@ https://www.youtube.com/watch?v=Dgo7F-lpyYE
 ### 5) Mocowanie elektrod
 Co można zrobić bez konieczności przyklejania ich taśmą/plastrem, żeby ciągle nie szukać odpowiedniego miejsca:
 - można pokusić się o ogarnięcie tego:
-	[[https://github.com/OpenBCI/Ultracortex/tree/master/Mark_IV]()](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_IV)
+	https://github.com/OpenBCI/Ultracortex/tree/master/Mark_IV
 - Tutaj (w wersji starszej) jest wszystko ładnie opisane jak to złożyć: 
 	[https://github.com/OpenBCI/Ultracortex/tree/master/Mark_III_Nova_REVISED](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_III_Nova_REVISED)
 - Tylko jeden zgrzyt jest taki, że potrzebne będą inne elektrody (takie które da się przymocować śrubami) - tutaj jest cały zestaw:

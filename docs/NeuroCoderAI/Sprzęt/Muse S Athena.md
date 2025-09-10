@@ -1,4 +1,4 @@
-#### **I) Sprzęt:**
+### I) Sprzęt
 
 Muse S Athena** (ten model jest dostępny dla EU):  
 [https://eu.choosemuse.com/products/muse-s-athena?variant=54629657248079](https://eu.choosemuse.com/products/muse-s-athena?variant=54629657248079 "https://eu.choosemuse.com/products/muse-s-athena?variant=54629657248079")
@@ -7,7 +7,7 @@ Muse S Athena** (ten model jest dostępny dla EU):
 [https://pl.farnell.com/silicon-labs/bled112-v1/bluetooth-module-v4-0-91dbm/dp/2930668?gross_price=true&utm_source=chatgpt.com](https://pl.farnell.com/silicon-labs/bled112-v1/bluetooth-module-v4-0-91dbm/dp/2930668?gross_price=true&utm_source=chatgpt.com "https://pl.farnell.com/silicon-labs/bled112-v1/bluetooth-module-v4-0-91dbm/dp/2930668?gross_price=true&utm_source=chatgpt.com")
 Czyli V1 z obsługą BLE i BGAPI (Interfejsy USB Host - emulacja portu Virtual COM)
 
-#### **II) Software:**
+### II) Software
 
 a) Formularz aplikacji do SDK Muse:  
 [https://choosemuse.com/pages/developers](https://choosemuse.com/pages/developers "https://choosemuse.com/pages/developers")  
@@ -28,5 +28,5 @@ c) Ewentualnie prostsza, lekko płatna (73 zł) apka/alternatywa do dostania si�
 https://mind-monitor.com/
 https://mind-monitor.com/FAQ.php#footnote-optics
 
-#### **III) Zastosowania:**   
+### III) Zastosowania
 Można stosować nie tylko w badaniach snu i relaksacji ale także radzi sobie przy np. BCI/neurofedbacku i innych badaniach, i sensor fNIRS daje sporo możliwości
